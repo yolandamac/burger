@@ -1,0 +1,22 @@
+/*body {
+  background-color: #CCF5CC;
+}*/
+
+body {
+  background: url('/assets/img/burger-background-19390593.png') #CCF5CC;
+}
+
+.green_font {
+  font-size: 16px;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #008F00;
+    border-color: #008F00;
+  }
+
+.tiny_text {
+  font-size: 11px;
+  color: #5da82f;
+}
