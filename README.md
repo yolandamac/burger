@@ -1,7 +1,5 @@
 * **Files**
 
-<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
-
 * Take a look at the app by clicking <a href="https://heroku-node-2788.herokuapp.com/index">here</a>
 
  * `Eat-Dem-Burgers`
